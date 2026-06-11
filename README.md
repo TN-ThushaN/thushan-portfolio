@@ -1,54 +1,90 @@
-<<<<<<< HEAD
-# Upgraded Developer Portfolio
+# 🚀 TN Thushan – Developer Portfolio
 
-Welcome to my personal developer portfolio website! This project is designed to showcase my academic projects, skills, real-time GitHub contributions, and pathways as a Data Scientist and Full-Stack Developer.
+Welcome to my personal portfolio website!  
+This project showcases my skills, projects, and journey as a **Data Science undergraduate, Machine Learning enthusiast, and Full-Stack developer**.
 
-Live Version: [Portfolio Website](https://tn-thushan.github.io/portfolio/)
-
----
-
-## ✨ Design & Key Features
-
-- **Dark Theme Glassmorphism**: Built using a modern, dark-slate background (`#030712`) enriched with ambient glowing blobs (neon cyan/blue/purple) and semi-transparent blur backdrops (`backdrop-filter: blur(12px)`).
-- **Interactive Typing Banner**: Features a dynamic typing/deleting animation representing my core specializations: Data Science, Machine Learning, Full-Stack Development, and AI Engineering.
-- **Categorized Skills Grid**: Displays proficiency across Programming Languages, Data Science & BI, and Databases & Tools with interactive loaders.
-- **Dynamic Project Filtering**: Instant client-side filtering (All, ML & Data Science, Full-Stack Web) using JavaScript.
-- **Live GitHub Analytics**: Beautifully aligned panels displaying live GitHub streak status, top language metrics, and contribution charts.
-- **Responsive Navigation & Mobile Drawer**: Floating glassmorphic header with active section tracking and a clean slide-in drawer menu for smaller screens.
-- **Fully Validated Contact Form**: Integrated with Formspree for immediate, secure mail delivery.
+🌐 **Live Website:** https://tn-thushan.github.io/portfolio/
 
 ---
 
-## 🛠️ Technology Stack
+## 👨‍💻 About Me
 
-- **Structure**: Semantic HTML5 & CSS3 Variables for layout, typography, animations, and color schemes.
-- **Typography**: `Outfit` and `Plus Jakarta Sans` Google Fonts.
-- **Icons**: Scalable vector icons provided dynamically by [Lucide Icons](https://lucide.dev/).
-- **Analytics & Badges**: SVG-based dynamic widgets from Vercel & Heroku API endpoints.
-- **Framework-free**: 100% Vanilla HTML/CSS/JS for rapid rendering speeds, fast page load times, and clean maintenance.
+Hi, I'm **Thushan**, a passionate developer and Data Science student from Sri Lanka 🇱🇰.
 
----
+I enjoy building real-world applications and exploring data-driven solutions using modern technologies. My focus areas include:
 
-## 📁 Repository Structure
-
-- `index.html` — Single page entry point with responsive styling system, layout grids, components, and active JS scripts.
-- `HeadshotPro Avatar 2025-08-19T14-30-33-028Z.png` — Main avatar profile.
-- `download (2).jpg` — BookHub library system thumbnail.
-- `OIP.webp` — Portfolio template thumbnail.
-- `README.md` — Repository documentation.
+- 📊 Data Science & Analytics  
+- 🤖 Machine Learning & AI  
+- 🌐 Full-Stack Web Development  
+- 📈 Business Intelligence (Power BI)  
 
 ---
 
-## 🚀 Local Hosting & Running
+## 🧠 Skills & Technologies
 
-To run this portfolio locally:
+### 💻 Programming Languages
+- Python 🐍  
+- Java  
+- JavaScript  
+- PHP  
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/TN-Thushan/portfolio.git
-   ```
-2. Open `index.html` in any web browser or use a local development server (such as VS Code's "Live Server" extension or Laragon / Apache local hosts).
-=======
-# thushan-portfolio
-Personal portfolio website showcasing my skills, projects, and experience in Data Science, Machine Learning, and Full Stack Development.
->>>>>>> edbdf92a4d9d36089fd08f49e4747650eb3f4c5e
+### 🌐 Web Development
+- HTML5 / CSS3 / Bootstrap  
+- React.js  
+- Node.js  
+- PHP & MySQL  
+
+### 📊 Data & AI
+- Pandas, NumPy  
+- Scikit-learn  
+- Machine Learning Models  
+- Data Visualization  
+
+### 📈 Tools & Platforms
+- Power BI  
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Library Management System (Capstone Project)
+A full-stack web application built using PHP & MySQL with user authentication, book borrowing system, admin dashboard, and notifications.
+
+### 📊 Data Science Projects
+Machine learning models for classification, prediction, and data analysis using Python.
+
+### 🌐 Portfolio Website
+A responsive personal portfolio built with HTML, CSS, and JavaScript and hosted on GitHub Pages.
+
+---
+
+## 🎯 Goals
+
+- Become a professional **Machine Learning Engineer**
+- Build scalable AI-powered applications
+- Contribute to open-source projects
+- Improve cloud & DevOps skills
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: your-email@example.com  
+- 🌐 GitHub: https://github.com/tn-thushan  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tn-thushan&show_icons=true&theme=tokyonight)
+
+---
+
+## 🏁 Thank You
+
+Thanks for visiting my portfolio repository!  
+Feel free to explore my projects and connect with me.
