@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Upgraded Developer Portfolio
 
 Welcome to my personal developer portfolio website! This project is designed to showcase my academic projects, skills, real-time GitHub contributions, and pathways as a Data Scientist and Full-Stack Developer.
@@ -47,3 +48,7 @@ To run this portfolio locally:
    git clone https://github.com/TN-Thushan/portfolio.git
    ```
 2. Open `index.html` in any web browser or use a local development server (such as VS Code's "Live Server" extension or Laragon / Apache local hosts).
+=======
+# thushan-portfolio
+Personal portfolio website showcasing my skills, projects, and experience in Data Science, Machine Learning, and Full Stack Development.
+>>>>>>> edbdf92a4d9d36089fd08f49e4747650eb3f4c5e
